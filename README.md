@@ -8,14 +8,17 @@
   <tr>
     <td>
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&theme=rose_pine&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&theme=rose_pine&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&theme=redical&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&theme=redical&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&bg_color=00000000&hide_border=true" />
       </picture>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-hernandez2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&&theme=transparent&bg_color=00000000&hide_border=true&order=2" height="150" alt="languages graph" />
     </td>
+  </tr>
+  <tr>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesus-hernandez2004&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
   </tr>
 </table>
 
