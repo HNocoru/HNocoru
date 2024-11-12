@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="left">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&theme=default&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
