@@ -8,8 +8,8 @@
   <tr>
     <td>
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&theme=default&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&theme=rose_pine&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&theme=rose_pine&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&show_icons=true&bg_color=00000000&hide_border=true" />
       </picture>
     </td>
