@@ -1,6 +1,6 @@
 <p align="left">Hello World!!</p>
 
-### 🔨 Languages and Tools:
+## 🔨 Languages and Tools:
 <br clear="both">
 
 <div align="left">
@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-### 📊 Stats and Activity</h2></summary>
+## 📊 Stats and Activity</h2></summary>
 
 <table align="center">
   <tr>
