@@ -31,7 +31,6 @@
 
 ### 📊 Stats and Activity</h2></summary>
 
-<h3>💻 GitHub Profile Stats</h3>
 <table align="center">
   <tr>
     <td>
