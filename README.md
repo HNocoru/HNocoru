@@ -1,6 +1,6 @@
 <p align="left">Hello World!!</p>
 
-## 🔨 Languages and Tools:
+### 🔨 Languages and Tools:
 <br clear="both">
 
 <div align="left">
@@ -27,9 +27,11 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
+##
+
 <br clear="both">
 
-## 📊 Stats and Activity</h2></summary>
+### 📊 Stats and Activity</h2></summary>
 
 <table align="center">
   <tr>
@@ -47,6 +49,4 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesus-hernandez2004&radius=16&theme=redical&bg_color=00000000&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
-
-
-###
+##
