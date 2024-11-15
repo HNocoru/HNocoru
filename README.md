@@ -2,7 +2,7 @@
 const hncoru = {
     pronoun: "he" | "him",
     languages: ["Java", "Python", "JavaScript"],
-    tools = ["Git", "VS Code", "IntelliJ IDEA"]
+    tools = ["Git", "VS Code", "IntelliJ IDEA", "React", "Node.js", "Docker"]
 }
 ```
 
