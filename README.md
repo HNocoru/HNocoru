@@ -1,4 +1,10 @@
-<p align="left">Hello World!!</p>
+```python
+const hncoru = {
+    pronoun: "he" | "him",
+    languages: ["Java", "Python", "JavaScript"],
+    tools = ["Git", "VS Code", "IntelliJ IDEA"]
+}
+```
 
 ### 🔨 Languages and Tools:
 <br clear="both">
@@ -35,10 +41,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jesus-hernandez2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&bg_color=00000000&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=HNocoru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&bg_color=00000000&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-hernandez2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=00000000&hide_border=true&order=2" height="150" alt="languages graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HNocoru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=00000000&hide_border=true&order=2" height="150" alt="languages graph"  />
     </td>
   </tr>
 </table>
@@ -46,5 +52,5 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesus-hernandez2004&radius=16&theme=redical&bg_color=00000000&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HNocoru&radius=16&theme=redical&bg_color=00000000&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
